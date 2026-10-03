@@ -1,3 +1,5 @@
+> **AK**: This is a fork of [ageron/handson-mlp](https://github.com/ageron/handson-mlp) that includes my own exploration and understandings. I try to include "AK" wherever I've made additions or changes.
+
 # Hands-On Machine Learning with Scikit-Learn and PyTorch
 
 The goal of this project is to teach you the fundamentals of Machine Learning in Python. It contains the example code and solutions to the exercises in the first edition of my new O'Reilly book [Hands-on Machine Learning with Scikit-Learn and PyTorch (1st edition)](https://homl.info/):
