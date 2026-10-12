@@ -1,3 +1,5 @@
+> **AK**: This is a fork of [ageron/handson-mlp](https://github.com/ageron/handson-mlp) that includes our own exploration and understandings. We try to include "AK" wherever we've made additions or changes.
+
 # Hands-On Machine Learning with Scikit-Learn and PyTorch
 
 The goal of this project is to teach you the fundamentals of Machine Learning in Python. It contains the example code and solutions to the exercises in the first edition of my new O'Reilly book [Hands-on Machine Learning with Scikit-Learn and PyTorch (1st edition)](https://homl.info/):
@@ -10,20 +12,27 @@ The goal of this project is to teach you the fundamentals of Machine Learning in
 
 ### Want to play with these notebooks online without having to install anything?
 
+**ageron's notebooks**
 - <a href="https://colab.research.google.com/github/ageron/handson-mlp/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (recommended)
+
+**AK's notebooks**
+- <a href="https://colab.research.google.com/github/anima-kit/explore-ageron-handson-mlp/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ⚠ _Colab provides a temporary environment: anything you do will be deleted after a while, so make sure you download any data you care about._
 
 ### Just want to quickly look at some notebooks, without executing any code?
 
+**ageron's notebooks**
 - <a href="https://nbviewer.jupyter.org/github/ageron/handson-mlp/blob/main/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+
+**AK's notebooks**
+- <a href="https://nbviewer.jupyter.org/github/anima-kit/explore-ageron-handson-mlp/blob/main/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
 - [github.com's notebook viewer](https://github.com/ageron/handson-mlp/blob/main/index.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
 
 ### Want to install this project on your own machine?
 
 Check out the [installation instructions](INSTALL.md).
-
 
 # FAQ
 
