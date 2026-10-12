@@ -22,11 +22,7 @@ The goal of this project is to teach you the fundamentals of Machine Learning in
 
 ### Just want to quickly look at some notebooks, without executing any code?
 
-**ageron's notebooks**
 - <a href="https://nbviewer.jupyter.org/github/ageron/handson-mlp/blob/main/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
-
-**AK's notebooks**
-- <a href="https://nbviewer.jupyter.org/github/anima-kit/explore-ageron-handson-mlp/blob/main/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
 - [github.com's notebook viewer](https://github.com/ageron/handson-mlp/blob/main/index.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
 
